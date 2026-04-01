@@ -1,10 +1,6 @@
 # Hi there, I'm Sowmya Dadheech 👋
 ### MS in Data Science @ University of Washington | AI & Data Engineering
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Sowmya-Dadheech&label=Profile%20Views&color=5&style=flat-square" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/Sowmya-Dadheech?label=Followers&style=flat-square" alt="Followers" />
-</p>
 
 - 🎓 **Graduate Student** at the **University of Washington** (MS in Data Science, GPA: 3.85).
 - 🔬 **Incoming Data Analyst** @ JAL Trans Logistics (Jan 2025). 
