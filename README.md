@@ -5,21 +5,13 @@
 - 🎓 **Graduate Student** at the **University of Washington** (MS in Data Science, GPA: 3.85).
 - 🔬 **Incoming Data Analyst** @ JAL Trans Logistics (Jan 2025). 
 - 🤖 **Former AI Intern** @ **Jio Platforms**, where I built RAG pipelines using Llama 3 & LangChain.
-- 🔭 **Research Focus**: Computer Vision (Residual U-Net for medical imaging) and EEG-based Computational Models.
+- 🔭 **Research Focu**: Computer Vision (Residual U-Net for medical imaging) and EEG-based Computational Models.
 - ⚡ **Technical Interests**: Multi-agent systems (LangGraph), Generative AI (RAG, QLoRA), and Real-time ETL Architecture.
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sowmya-Dadheech&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya-Dadheech&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmya-Dadheech&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
