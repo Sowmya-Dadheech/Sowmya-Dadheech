@@ -10,8 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
 
 ---
 
@@ -66,7 +64,16 @@
 
 
 ---
-
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya-Dadheech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+---
+### 🚀 Highlighted Project Links
+*   **[AttentionPlay Transformer Recommendation System](https://github.com/Sowmya-Dadheech/AttentionPlay-Transformer-Based_Deep_Learning_Playlist_Recommendation_System)**
+*   **[Flex.i AI Fitness Web App](https://github.com/Sowmya-Dadheech/Flex.i-AI-powered-fitness-Web-application)**
+*   **[Multi-Agent Stock Analysis (CrewAI)](https://github.com/Sowmya-Dadheech/MultiAgent-StockAnalysis-Using-CrewAI)**
+*   **[Big Data Pipeline (AWS)](https://github.com/Sowmya-Dadheech/Big-Data-Pipeline-using-AWS)**
 ---
 
 ### 📂 High-Impact Projects
