@@ -63,46 +63,13 @@
 </p>
 
 
----
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowmya-Dadheech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
----
-### 🚀 Highlighted Project Links
-*   **[AttentionPlay Transformer Recommendation System](https://github.com/Sowmya-Dadheech/AttentionPlay-Transformer-Based_Deep_Learning_Playlist_Recommendation_System)**
-*   **[Flex.i AI Fitness Web App](https://github.com/Sowmya-Dadheech/Flex.i-AI-powered-fitness-Web-application)**
-*   **[Multi-Agent Stock Analysis (CrewAI)](https://github.com/Sowmya-Dadheech/MultiAgent-StockAnalysis-Using-CrewAI)**
-*   **[Big Data Pipeline (AWS)](https://github.com/Sowmya-Dadheech/Big-Data-Pipeline-using-AWS)**
----
-
-### 📂 High-Impact Projects
-
-*   **[EEG-ML Autism Detection Model](https://github.com/Sowmya-Dadheech/EEG-based-Machine-Learning-model-for-Autism-detection-and-severity-analysis)**: A two-stage CNN–LSTM architecture achieving 91% recall for ASD severity analysis.
-*   **[Data Warehousing & Dashcam Pipeline](https://github.com/Sowmya-Dadheech/Data-Processing-and-Warehousing-Pipeline-)**: Multi-modal hazard detection integrating YOLOv8 with LLaVA vision language models.
-*   **[PantryMap (UW Project)](https://github.com/Sowmya-Dadheech/data-515-pantrymap)**: Data-intensive application developed during the MS in Data Science program at University of Washington.
-*   **[Portfolio Website](https://github.com/Sowmya-Dadheech/portfoliooo)**: A showcase of personal projects and end-to-end Machine Learning implementations.
-
-#### 🔗 [View All My Repositories](https://github.com/Sowmya-Dadheech?tab=repositories)
 
 
 
-### 🚀 Featured Research & Projects
 
-*   **Multi-Agent Data Wrangling System**: Built an autonomous pipeline using **LangGraph** & **MCP servers** that detects schema inconsistencies and generates cleaning transformations using an A2A protocol.
-*   **Dashcam Safety Pipeline**: Multi-modal hazard detection integrating **YOLOv8** with **LLaVA**. Fine-tuned via **QLoRA** for ADAS-compliant safety alerts on the Cityscapes dataset.
-*   **Jio RAG Compliance Pipeline**: Engineered a Retrieval-Augmented Generation system using **Llama 3** and **FAISS** to automate regulatory audits, reducing manual review time by 60%.
-*   **EEG-Based Autism Detection**: Designed a **CNN-LSTM** architecture with ICA preprocessing, achieving 91% recall and classifying ASD severity levels using GMM clustering.
-*   **Residual U-Net Segmentation**: Implemented in **PyTorch** for automated lung segmentation from chest X-rays, achieving a Dice score of 0.83.
 
 ---
 
-### 📚 Publications
-- 📄 *Intervention Analysis for Predicting Stock Market using Deep Learning and Time Series.* (IEEE ICCCNT 2024)
-- 📄 *Adaptivity in Role-Based Access Control During Stochastic Situations.* (JCS 2024)
-- 📄 *The Intersection of Artificial Intelligence and Healthcare.* (Nano NTP)
-
----
 
 ### 📫 Connect with Me
 <p align="left">
@@ -110,7 +77,4 @@
   <a href="mailto:sowmyaclg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
 </p>
 
-<p align="center">
-  <sub>Refined with ❤️ | Last Updated: March 2026</sub>
-</p>
 
