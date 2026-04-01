@@ -67,29 +67,17 @@
 
 ---
 
-### 📂 Top Repositories
+---
 
-<p align="center">
-  <!-- Correct name for your EEG/Autism project -->
-  <a href="https://github.com/Sowmya-Dadheech/EEG-based-Machine-Learning-model-for-Autism-detection-and-severity-analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=EEG-based-Machine-Learning-model-for-Autism-detection-and-severity-analysis&theme=tokyonight" />
-  </a>
-  <!-- Correct name for your Warehouse/Dashcam pipeline -->
-  <a href="https://github.com/Sowmya-Dadheech/Data-Processing-and-Warehousing-Pipeline-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Data-Processing-and-Warehousing-Pipeline-&theme=tokyonight" />
-  </a>
-</p>
+### 📂 High-Impact Projects
 
-<p align="center">
-  <!-- Your PantryMap project from UW -->
-  <a href="https://github.com/Sowmya-Dadheech/data-515-pantrymap">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=data-515-pantrymap&theme=tokyonight" />
-  </a>
-  <!-- Your Portfolio project -->
-  <a href="https://github.com/Sowmya-Dadheech/portfoliooo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=portfoliooo&theme=tokyonight" />
-  </a>
-</p>
+*   **[EEG-ML Autism Detection Model](https://github.com/Sowmya-Dadheech/EEG-based-Machine-Learning-model-for-Autism-detection-and-severity-analysis)**: A two-stage CNN–LSTM architecture achieving 91% recall for ASD severity analysis.
+*   **[Data Warehousing & Dashcam Pipeline](https://github.com/Sowmya-Dadheech/Data-Processing-and-Warehousing-Pipeline-)**: Multi-modal hazard detection integrating YOLOv8 with LLaVA vision language models.
+*   **[PantryMap (UW Project)](https://github.com/Sowmya-Dadheech/data-515-pantrymap)**: Data-intensive application developed during the MS in Data Science program at University of Washington.
+*   **[Portfolio Website](https://github.com/Sowmya-Dadheech/portfoliooo)**: A showcase of personal projects and end-to-end Machine Learning implementations.
+
+#### 🔗 [View All My Repositories](https://github.com/Sowmya-Dadheech?tab=repositories)
+
 
 
 ### 🚀 Featured Research & Projects
