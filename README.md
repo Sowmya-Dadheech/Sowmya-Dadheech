@@ -65,6 +65,29 @@
 </p>
 
 
+---
+
+### 📂 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/Sowmya-Dadheech/Dashcam-Safety-Pipeline">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Dashcam-Safety-Pipeline&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sowmya-Dadheech/Multi-Agent-Data-Wrangling">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Multi-Agent-Data-Wrangling&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sowmya-Dadheech/EEG-Autism-Detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=EEG-Autism-Detection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sowmya-Dadheech/Residual-UNet-Segmentation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Residual-UNet-Segmentation&theme=tokyonight" />
+  </a>
+</p>
+
+
 ### 🚀 Featured Research & Projects
 
 *   **Multi-Agent Data Wrangling System**: Built an autonomous pipeline using **LangGraph** & **MCP servers** that detects schema inconsistencies and generates cleaning transformations using an A2A protocol.
