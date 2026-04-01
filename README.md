@@ -70,20 +70,24 @@
 ### 📂 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/Sowmya-Dadheech/Dashcam-Safety-Pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Dashcam-Safety-Pipeline&theme=tokyonight" />
+  <!-- Correct name for your EEG/Autism project -->
+  <a href="https://github.com/Sowmya-Dadheech/EEG-based-Machine-Learning-model-for-Autism-detection-and-severity-analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=EEG-based-Machine-Learning-model-for-Autism-detection-and-severity-analysis&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Sowmya-Dadheech/Multi-Agent-Data-Wrangling">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Multi-Agent-Data-Wrangling&theme=tokyonight" />
+  <!-- Correct name for your Warehouse/Dashcam pipeline -->
+  <a href="https://github.com/Sowmya-Dadheech/Data-Processing-and-Warehousing-Pipeline-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Data-Processing-and-Warehousing-Pipeline-&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sowmya-Dadheech/EEG-Autism-Detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=EEG-Autism-Detection&theme=tokyonight" />
+  <!-- Your PantryMap project from UW -->
+  <a href="https://github.com/Sowmya-Dadheech/data-515-pantrymap">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=data-515-pantrymap&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Sowmya-Dadheech/Residual-UNet-Segmentation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=Residual-UNet-Segmentation&theme=tokyonight" />
+  <!-- Your Portfolio project -->
+  <a href="https://github.com/Sowmya-Dadheech/portfoliooo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sowmya-Dadheech&repo=portfoliooo&theme=tokyonight" />
   </a>
 </p>
 
