@@ -1,6 +1,6 @@
 # Hi there, I'm Sowmya Dadheech 👋
 
-*   I love building data-driven solutions and exploring the intersection of AI and real-world problems.**
+*   I love building data-driven solutions and exploring the intersection of AI and real-world problems.*
 *   Pursuing my **Masters in Data Science at the University of Washington** 🎓
 *   Check out my project portfolio **[here](https://github.com/Sowmya-Dadheech/portfoliooo)** 📁
 *   Check out all my projects on github **[here](https://github.com/Sowmya-Dadheech?tab=repositories)** 💻
